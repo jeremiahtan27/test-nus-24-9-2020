@@ -3,5 +3,5 @@ Test repository
 
 Some more text.
 
-*this a list item
+* this a list item
 * this is...
